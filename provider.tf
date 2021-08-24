@@ -7,7 +7,7 @@ provider "oci" {
   #private_key_path = var.private_key_path
   region           = var.region
 }
-
+/*
 # Home Region Provider
 provider "oci" {
   alias                = "homeregion"
@@ -18,3 +18,4 @@ provider "oci" {
   region               = data.oci_identity_region_subscriptions.home_region_subscriptions.region_subscriptions[0].region_name
   disable_auto_retries = "true"
 }
+*/
