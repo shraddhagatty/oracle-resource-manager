@@ -13,7 +13,7 @@ output "subnet1"{
 }
 
 resource "oci_core_subnet" "subnet2" {
-    cidr_block = "10.0.1.0/24"
+    cidr_block = "10.0.2.0/24"
     compartment_id = var.compartment_ocid
     vcn_id = oci_core_virtual_network.vcn1.id
     display_name = "subnet2"
