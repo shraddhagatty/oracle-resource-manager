@@ -1,0 +1,6 @@
+export TF_VAR_user_ocid="ocid1.user.oc1..aaaaaaaalpzmivjjlh4grsm6bm3ihsrqkc5ng6cgwevazfjyvicv3pnogwhq"
+export TF_VAR_tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaan3flbuthepkgxpoycn5ocqk226a6w3thputcewkcmbyxtpnp6yuq"
+export TF_VAR_compartment_ocid="ocid1.compartment.oc1..aaaaaaaat6aydh4osk7woil2me35bifuwwp2q7ax4obbrpq2dq5tutuiwldq"
+export TF_VAR_fingerprint="0c:d4:e8:41:46:7e:ae:8c:6e:ad:d0:e8:9a:d2:13:c3"
+export TF_VAR_private_key_path="/root/.oci/shrar.pem"
+export TF_VAR_region="eu-frankfurt-1"
